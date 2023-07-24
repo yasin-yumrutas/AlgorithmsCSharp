@@ -1,0 +1,15 @@
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Algorithms\TemizBaslangic\bin\Debug\net6.0\TemizBaslangic.exe
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Algorithms\TemizBaslangic\bin\Debug\net6.0\TemizBaslangic.deps.json
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Algorithms\TemizBaslangic\bin\Debug\net6.0\TemizBaslangic.runtimeconfig.json
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Algorithms\TemizBaslangic\bin\Debug\net6.0\TemizBaslangic.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Algorithms\TemizBaslangic\bin\Debug\net6.0\TemizBaslangic.pdb
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Algorithms\TemizBaslangic\obj\Debug\net6.0\TemizBaslangic.csproj.AssemblyReference.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Algorithms\TemizBaslangic\obj\Debug\net6.0\TemizBaslangic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Algorithms\TemizBaslangic\obj\Debug\net6.0\TemizBaslangic.AssemblyInfoInputs.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Algorithms\TemizBaslangic\obj\Debug\net6.0\TemizBaslangic.AssemblyInfo.cs
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Algorithms\TemizBaslangic\obj\Debug\net6.0\TemizBaslangic.csproj.CoreCompileInputs.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Algorithms\TemizBaslangic\obj\Debug\net6.0\TemizBaslangic.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Algorithms\TemizBaslangic\obj\Debug\net6.0\refint\TemizBaslangic.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Algorithms\TemizBaslangic\obj\Debug\net6.0\TemizBaslangic.pdb
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Algorithms\TemizBaslangic\obj\Debug\net6.0\TemizBaslangic.genruntimeconfig.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Algorithms\TemizBaslangic\obj\Debug\net6.0\ref\TemizBaslangic.dll
