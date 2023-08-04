@@ -1,0 +1,15 @@
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\LinearSearch\obj\Debug\net6.0\LinearSearch.csproj.AssemblyReference.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\LinearSearch\obj\Debug\net6.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\LinearSearch\obj\Debug\net6.0\LinearSearch.AssemblyInfoInputs.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\LinearSearch\obj\Debug\net6.0\LinearSearch.AssemblyInfo.cs
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\LinearSearch\obj\Debug\net6.0\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\LinearSearch\bin\Debug\net6.0\LinearSearch.exe
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\LinearSearch\bin\Debug\net6.0\LinearSearch.deps.json
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\LinearSearch\bin\Debug\net6.0\LinearSearch.runtimeconfig.json
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\LinearSearch\bin\Debug\net6.0\LinearSearch.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\LinearSearch\bin\Debug\net6.0\LinearSearch.pdb
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\LinearSearch\obj\Debug\net6.0\LinearSearch.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\LinearSearch\obj\Debug\net6.0\refint\LinearSearch.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\LinearSearch\obj\Debug\net6.0\LinearSearch.pdb
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\LinearSearch\obj\Debug\net6.0\LinearSearch.genruntimeconfig.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\LinearSearch\obj\Debug\net6.0\ref\LinearSearch.dll

@@ -1,0 +1,15 @@
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Breadth-First Search\bin\Debug\net6.0\Breadth-First Search.exe
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Breadth-First Search\bin\Debug\net6.0\Breadth-First Search.deps.json
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Breadth-First Search\bin\Debug\net6.0\Breadth-First Search.runtimeconfig.json
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Breadth-First Search\bin\Debug\net6.0\Breadth-First Search.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Breadth-First Search\bin\Debug\net6.0\Breadth-First Search.pdb
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Breadth-First Search\obj\Debug\net6.0\Breadth-First Search.csproj.AssemblyReference.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Breadth-First Search\obj\Debug\net6.0\Breadth-First Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Breadth-First Search\obj\Debug\net6.0\Breadth-First Search.AssemblyInfoInputs.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Breadth-First Search\obj\Debug\net6.0\Breadth-First Search.AssemblyInfo.cs
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Breadth-First Search\obj\Debug\net6.0\Breadth-First Search.csproj.CoreCompileInputs.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Breadth-First Search\obj\Debug\net6.0\Breadth-First Search.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Breadth-First Search\obj\Debug\net6.0\refint\Breadth-First Search.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Breadth-First Search\obj\Debug\net6.0\Breadth-First Search.pdb
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Breadth-First Search\obj\Debug\net6.0\Breadth-First Search.genruntimeconfig.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Breadth-First Search\obj\Debug\net6.0\ref\Breadth-First Search.dll

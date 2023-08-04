@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Depth-First Search/1.0.0": {
+        "runtime": {
+          "Depth-First Search.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Depth-First Search/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

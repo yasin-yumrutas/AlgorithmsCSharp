@@ -1,0 +1,15 @@
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Depth-First Search\bin\Debug\net6.0\Depth-First Search.exe
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Depth-First Search\bin\Debug\net6.0\Depth-First Search.deps.json
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Depth-First Search\bin\Debug\net6.0\Depth-First Search.runtimeconfig.json
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Depth-First Search\bin\Debug\net6.0\Depth-First Search.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Depth-First Search\bin\Debug\net6.0\Depth-First Search.pdb
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Depth-First Search\obj\Debug\net6.0\Depth-First Search.csproj.AssemblyReference.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Depth-First Search\obj\Debug\net6.0\Depth-First Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Depth-First Search\obj\Debug\net6.0\Depth-First Search.AssemblyInfoInputs.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Depth-First Search\obj\Debug\net6.0\Depth-First Search.AssemblyInfo.cs
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Depth-First Search\obj\Debug\net6.0\Depth-First Search.csproj.CoreCompileInputs.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Depth-First Search\obj\Debug\net6.0\Depth-First Search.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Depth-First Search\obj\Debug\net6.0\refint\Depth-First Search.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Depth-First Search\obj\Debug\net6.0\Depth-First Search.pdb
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Depth-First Search\obj\Debug\net6.0\Depth-First Search.genruntimeconfig.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Depth-First Search\obj\Debug\net6.0\ref\Depth-First Search.dll

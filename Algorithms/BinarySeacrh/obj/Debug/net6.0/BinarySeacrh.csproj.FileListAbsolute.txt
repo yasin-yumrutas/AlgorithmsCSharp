@@ -1,0 +1,15 @@
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\BinarySeacrh\bin\Debug\net6.0\BinarySeacrh.exe
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\BinarySeacrh\bin\Debug\net6.0\BinarySeacrh.deps.json
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\BinarySeacrh\bin\Debug\net6.0\BinarySeacrh.runtimeconfig.json
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\BinarySeacrh\bin\Debug\net6.0\BinarySeacrh.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\BinarySeacrh\bin\Debug\net6.0\BinarySeacrh.pdb
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\BinarySeacrh\obj\Debug\net6.0\BinarySeacrh.csproj.AssemblyReference.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\BinarySeacrh\obj\Debug\net6.0\BinarySeacrh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\BinarySeacrh\obj\Debug\net6.0\BinarySeacrh.AssemblyInfoInputs.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\BinarySeacrh\obj\Debug\net6.0\BinarySeacrh.AssemblyInfo.cs
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\BinarySeacrh\obj\Debug\net6.0\BinarySeacrh.csproj.CoreCompileInputs.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\BinarySeacrh\obj\Debug\net6.0\BinarySeacrh.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\BinarySeacrh\obj\Debug\net6.0\refint\BinarySeacrh.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\BinarySeacrh\obj\Debug\net6.0\BinarySeacrh.pdb
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\BinarySeacrh\obj\Debug\net6.0\BinarySeacrh.genruntimeconfig.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\BinarySeacrh\obj\Debug\net6.0\ref\BinarySeacrh.dll

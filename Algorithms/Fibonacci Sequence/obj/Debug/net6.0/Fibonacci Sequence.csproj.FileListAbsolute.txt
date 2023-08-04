@@ -1,0 +1,15 @@
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Fibonacci Sequence\bin\Debug\net6.0\Fibonacci Sequence.exe
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Fibonacci Sequence\bin\Debug\net6.0\Fibonacci Sequence.deps.json
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Fibonacci Sequence\bin\Debug\net6.0\Fibonacci Sequence.runtimeconfig.json
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Fibonacci Sequence\bin\Debug\net6.0\Fibonacci Sequence.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Fibonacci Sequence\bin\Debug\net6.0\Fibonacci Sequence.pdb
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.csproj.AssemblyReference.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.AssemblyInfoInputs.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.AssemblyInfo.cs
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Fibonacci Sequence\obj\Debug\net6.0\refint\Fibonacci Sequence.dll
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.pdb
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.genruntimeconfig.cache
+C:\Users\yasin\OneDrive\Masaüstü\Data\Data\yedek0\Data\C#\NewStep\Fibonacci Sequence\obj\Debug\net6.0\ref\Fibonacci Sequence.dll
